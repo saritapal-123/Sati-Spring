@@ -15,11 +15,11 @@ public class main {
 		Employee bean = ioc.getBean("emp1", Employee.class);
 		System.out.println(bean);
 		
-	
+	/*
 		Employee bean2 = ioc.getBean("emp2", Employee.class);
 		System.out.println(bean2);
 		
-		
+		*/
 		
 		
 	}
